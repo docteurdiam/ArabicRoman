@@ -1,0 +1,9 @@
+source "http://rubygems.org"
+
+gem 'rails', :git => "git://github.com/rails/rails.git", :tag => "v3.1.2"
+gem 'rspec'
+gem 'rspec-rails'
+gem 'ruby-debug19'
+gem "bundler", "~> 1.0.0"
+gem "jeweler", "~> 1.8.3"
+

@@ -1,4 +1,4 @@
-class ArabicRoman
+class Roman
 
   def convert(arabic_number)
     rom = [
